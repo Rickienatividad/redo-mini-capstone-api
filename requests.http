@@ -1,0 +1,9 @@
+POST http://localhost:3000/products  
+Content-Type: application/json
+
+{
+  "name": "toothpicks",
+  "price": 2,
+  "image_url": "https://www.bigbasket.com/media/uploads/p/xxl/40022045_4-fackelmann-toothpicks-wood-65cm.jpg",
+  "description": "picks teeth good"
+}
